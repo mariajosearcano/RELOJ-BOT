@@ -3,6 +3,8 @@ Telegram alarm assistant bot made in Wokwi that allows you to set an alarm and r
 
 It was made with an ESP32, a speaker and an OLED screen.
 
-[➡️ libreria bot de telegram](https://github.com/gabrielebarola/telegram-upy)
-[➡️ codigo de apoyo para la creacion del reloj](https://github.com/ComputadorasySensores/Capitulo52)
-[➡️ libreria pantalla OLED SSD1306](https://github.com/stlehmann/micropython-ssd1306)
+[➡️ telegram bot library](https://github.com/gabrielebarola/telegram-upy)
+
+[➡️ support code for clock creation](https://github.com/ComputadorasySensores/Capitulo52)
+
+[➡️ SSD1306 OLED display library](https://github.com/stlehmann/micropython-ssd1306)
