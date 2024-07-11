@@ -2,6 +2,7 @@
 Telegram alarm assistant bot made in Wokwi that allows you to set an alarm and reminder for a specific time. It also shows the current time.
 
 It was made with an ESP32, a speaker and an OLED screen.
+Made in micropython.
 
 
 [➡️ telegram bot library](https://github.com/gabrielebarola/telegram-upy)
