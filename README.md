@@ -1,4 +1,8 @@
 # RELOJ-BOT
+By:
+- Luis Miguel Cañaveral Restrepo
+- [mariajosearcano](https://github.com/mariajosearcano)
+
 Telegram alarm assistant bot made in Wokwi that allows you to set an alarm and reminder for a specific time. It also shows the current time.
 
 It was made with an ESP32, a speaker and an OLED screen.
